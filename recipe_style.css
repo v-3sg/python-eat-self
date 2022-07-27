@@ -1,0 +1,20 @@
+.no-curly-text {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.red-rum {
+    color: darkred;
+}
+
+.content-block {
+    background-color: antiquewhite;
+}
+
+.legible {
+    font-family: "Century Gothic";
+}
+
+.reversed {
+    background-color: black;
+    color: ghostwhite;
+}
